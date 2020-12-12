@@ -1,0 +1,17 @@
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.deps.json
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.runtimeconfig.json
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.runtimeconfig.dev.json
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.dll
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.RazorAssemblyInfo.cache
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.RazorAssemblyInfo.cs
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.AssemblyInfo.cs
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.RazorTargetAssemblyInfo.cache
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.pdb
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.dll
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.pdb
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\jyotinaik\Documents\Honeywell\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.csproj.CopyComplete
